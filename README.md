@@ -35,7 +35,7 @@ In the words of Agent K (MIB):
 - [X] programming homework :octocat: :octocat:
 - [ ] Sleep :crystal_ball::zzz:
 
-:arrow_double_down:**Click Here!**:arrow_double_down:
+:arrow_double_down:**Click Here! The passcode is 'Inferno' **:arrow_double_down:
 
 [![alt text](https://img.itch.zone/aW1hZ2UvMjYwODMyLzE0MDE4NjkucG5n/347x500/zbM7Pf.png "JACK")](https://irisz.itch.io/jack-testfire)
 
